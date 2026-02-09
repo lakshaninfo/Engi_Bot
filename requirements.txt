@@ -2,4 +2,4 @@ fastapi
 uvicorn
 google-generativeai
 mangum
-fpdf2
+fpdf
